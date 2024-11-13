@@ -1,3 +1,6 @@
+# Basic info
+This is a fully compailed framework (with minimal version)
+
 # Quick guide
 Clone this repository and move this framework into your `XCode` project.
 
