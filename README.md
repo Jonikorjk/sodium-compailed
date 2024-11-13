@@ -1,5 +1,6 @@
 # Basic info
-This is a fully compailed framework (with minimal version)
+This is a fully compailed framework (with minimal version). 
+If you want to compile it yourself (use Intel Mac), see [doc](https://doc.libsodium.org/). 
 
 # Quick guide
 Clone this repository and move this framework into your `XCode` project.
